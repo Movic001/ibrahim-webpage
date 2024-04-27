@@ -1,0 +1,195 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(238, 244, 248);
+    height:auto;
+    max-width:100%;
+}
+.ve-console-log{
+    background-color: white;
+    height:50px;
+    padding:0;
+    margin:0;
+    border:1.5px solid black;
+    margin-top:20px;
+    margin-left:20px;
+    width:96%;
+    border-radius: 20px;
+    max-width:100%;
+}
+.ve-console-log li{
+    max-width: auto;
+    vertical-align: top;
+}
+.nev-content-preview ul{
+    list-style-type:none;
+}
+.nev-content-preview li{
+    display: inline-block;
+    font-size: 25px;
+}
+.nev-content-preview a{
+    color:black;
+}
+.nev-content-preview a:hover{
+    color:red;
+}
+.picture-preview{
+    padding-top:180px;
+    margin-left:20px;
+    background-image:url("file:///C:/Users/IBRAHIM%20PC/Desktop/IBRAHIM%20WEB-PAGE/67c07a52-2d92-4e00-bd52-87e1b81a9307_1.png");
+    background-repeat:no-repeat;
+    background-size:400px;
+    background-position:middle;
+    max-width:100%;
+    height:250px;
+    margin-top:10px;
+    border-radius: 30px;
+}
+.picture-view{
+    color:black;
+    font-size: 45px;
+    margin-left:450px;
+}
+hr{
+    margin-top:20px;
+    color:blue;
+}
+.about-info-view{
+    margin-left:20px;
+    max-width:100%;
+    min-width:160px;
+}
+.about-preview{
+    width:390px;
+    font-size:20px;
+    padding-top: 10px;
+}
+h2{
+    padding-top: 80px;
+}
+.about-view-movic{
+    display:inline-block;
+}
+.about-info-view{
+    display:inline-block;
+    vertical-align: top;
+    margin-bottom:30px;
+}
+.image-move-down-view{
+    border:2px solid black;
+    width:900px;
+    max-width:100%;
+    margin-left: 30px;
+    margin-top:20px;
+    background-color: rgb(251, 252, 253);
+    border-radius: 10px;
+    text-align:center;
+}
+.about-info-view img{
+    width:450px;
+    max-width:100%;
+    height: auto;
+    border-radius:25px;
+}
+.skills-viewonce{
+    width:550px;
+    font-size:25px;
+    margin-left:420px;
+}
+h3{
+    font-size: 35px;
+}
+.skills-center{
+    text-align: center;
+}
+.image-link-view-now img{
+    border-radius: 50px;
+    max-width:100%;
+}
+.image-link-view img{
+    border-radius: 50px;
+    max-width:100%;
+}
+.form-view::text{
+    width:200px;
+}
+.input-text input[type="text"] {
+    margin: 4px 0; 
+    width:50%;
+    max-width: 100%;
+    height:55px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 22px;
+}
+h4{
+    font-size:30px;
+    color:blue;
+    text-align: center;
+}
+.input-text-view [type="text"] {
+    margin: 4px 0; 
+    width:50%;
+    max-width: 100%;
+    height:55px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 22px;
+}
+.input-view-port  [type="text"] {
+    margin: 4px; 
+    width:50%;
+    max-width:100%;
+    height:55px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 22px;
+}
+.text-form-view [type="text"] {
+    margin: 4px; 
+    width:50%;
+    max-width:100%;
+    padding-bottom:500px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 22px;
+    vertical-align: top;
+}
+.submit-send  [type="Submit"] {
+    background-color: blue;
+    color: white;
+    margin-left: 40%;
+    border-radius:10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    margin-top:10px;
+    width:120px;
+    height:50px;
+    font-size:20px;
+}
+.input-whole-text-center{
+    text-align: center;
+    max-width: 100%;
+}
+.footer-bottom ul{
+    list-style-type:none;
+}
+.footer-bottom li{
+    display:inline-block;
+    padding: 0;
+    margin: 0;
+}
+.footer-bottom img{
+    border-radius: 20px;
+}
